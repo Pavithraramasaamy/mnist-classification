@@ -1,4 +1,4 @@
-# Convolutional Deep Neural Network for Digit Classification
+# EXP-03 Convolutional Deep Neural Network for Digit Classification
 
 ## AIM
 
